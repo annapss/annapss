@@ -1,7 +1,7 @@
 ## Seja bem-vindo ao GitHub da Anna!
 
 - 👩🏻‍💻Meu nome é Anna Paula!
-- 📚 Estudante do CEFET/RJ cursando o 2° ano do Ensino Médio em Informática.
+- 📚 Estudante do CEFET/RJ cursando o 3° ano do Ensino Médio em Informática.
 - ❤️ Apaixonada por programação
 - 🧠 Em constante crescimento
 
