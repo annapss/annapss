@@ -2,8 +2,8 @@
 
 - 👩🏻‍💻Meu nome é Anna Paula!
 - 📚 Estudante do CEFET/RJ cursando o 3° ano do Ensino Médio em Informática.
-- ❤️ Apaixonada por programação
-- 🧠 Em constante crescimento
+- ❤️ Apaixonada por programação.
+- 🧠 Em constante crescimento.
 
 <div> 
   <a href="https://www.instagram.com/annapss08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
