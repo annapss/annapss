@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/anna-paula-siqueira-da-silva-9545621b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-  <a href = "mailto:contatoannpss07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:contatoannpss07@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
 
 ## 💻GitHub Stats
@@ -26,3 +26,4 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" weight="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" weight="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" weight="40"/>
+ <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40" weight="40"/>
