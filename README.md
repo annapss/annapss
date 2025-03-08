@@ -1,7 +1,7 @@
 ## Seja bem-vindo ao GitHub da Anna!
 
 - 👩🏻‍💻Meu nome é Anna Paula!
-- 📚 Estudante da UNIRIO cursando o 4° perído do curso de Sistemas de Informação.
+- 📚 Estudante da UNIRIO cursando o 5° perído do curso de Sistemas de Informação.
 - 🎓 Técnica de Informática.
 - ❤️ Apaixonada por programação.
 - 🧠 Em constante crescimento.
